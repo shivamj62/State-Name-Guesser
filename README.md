@@ -29,14 +29,14 @@
 ## Game Images
 
 <p align="center"> 
-  <img src="https://github.com/SourasishBasu/Strange-Attractors/blob/7a1fdfa9deac77960671dadf849b017a98c6c6c1/assetss/game_start.png" />
+  <img src="https://github.com/SourasishBasu/State-Name-Guesser/blob/36be02c13b92a8b7a1fbc8e0484a951710101c50/assets/game_start.png" />
    <br><b>Game Launch Window</b>
 </p>
 
 <br></br>
 
 <p align="center"> 
-  <img src="https://github.com/SourasishBasu/Strange-Attractors/blob/7a1fdfa9deac77960671dadf849b017a98c6c6c1/assets/game_progress.png" />
+  <img src="https://github.com/SourasishBasu/State-Name-Guesser/blob/36be02c13b92a8b7a1fbc8e0484a951710101c50/assets/game_progress.png" />
    <br><b>Game in Progress</b>
 </p>
 

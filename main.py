@@ -28,10 +28,7 @@ while len(correct_guesses) < 50:
     # Exit Condition
     if answer == "Exit":
         # Creation of .csv file containing names of unguessed states
-        unguessed_states = []
-        for state in all_states:
-            if state not in correct_guesses:
-                unguessed_states.append(state)
+        unguessed_states = [state for state in all_states if state not in correct_guesses]
         df = pandas.DataFrame(unguessed_states)
         df.to_csv("states_to_learn.csv")
         break
